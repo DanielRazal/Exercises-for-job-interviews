@@ -224,11 +224,38 @@ namespace ConsoleApp1
             return -1;
         }
 
+        static int[] BubbleSort(int[] arr)
+        {
+
+            for (int i = 0; i < arr.Length - 1; i++)
+            {
+                for (int j = 0; j < arr.Length - 1 - i; j++)
+                {
+                    if (arr[j] > arr[j + 1])
+                    {
+                        int swap = arr[j];
+                        arr[j] = arr[j + 1];
+                        arr[j + 1] = swap;
+                    }
+                }
+            }
+            return arr;
+        }
+
+
 
 
         static void Main(string[] args)
         {
 
+
+            int[] arr = { 1, 9, 5, 3, 2, 4, 6, 7, 8, 9, 3, 444, 555, 6 };
+            var x = BubbleSort(arr);
+
+            foreach (var item in x)
+            {
+                System.Console.Write(item + " ");
+            }
             // int[] arr = { 1, 2, 3, 4, 5, 5 };
 
 

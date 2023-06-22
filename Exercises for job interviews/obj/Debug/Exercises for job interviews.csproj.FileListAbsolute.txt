@@ -1,0 +1,8 @@
+C:\Users\97250\Desktop\Exercises for job interviews\Exercises for job interviews\bin\Debug\Exercises for job interviews.exe.config
+C:\Users\97250\Desktop\Exercises for job interviews\Exercises for job interviews\bin\Debug\Exercises for job interviews.exe
+C:\Users\97250\Desktop\Exercises for job interviews\Exercises for job interviews\bin\Debug\Exercises for job interviews.pdb
+C:\Users\97250\Desktop\Exercises for job interviews\Exercises for job interviews\obj\Debug\Exercises for job interviews.csproj.AssemblyReference.cache
+C:\Users\97250\Desktop\Exercises for job interviews\Exercises for job interviews\obj\Debug\Exercises for job interviews.csproj.SuggestedBindingRedirects.cache
+C:\Users\97250\Desktop\Exercises for job interviews\Exercises for job interviews\obj\Debug\Exercises for job interviews.csproj.CoreCompileInputs.cache
+C:\Users\97250\Desktop\Exercises for job interviews\Exercises for job interviews\obj\Debug\Exercises for job interviews.exe
+C:\Users\97250\Desktop\Exercises for job interviews\Exercises for job interviews\obj\Debug\Exercises for job interviews.pdb
